@@ -11,13 +11,12 @@ Por favor leia este rápido [guia de contribuição](https://github.com/pineli/a
 ### Conteudo
 
 - [Plataformas IoT](#plataforma-iot)
-    - [Amazon AWS](#amazon-aws)
 
 - [Plataformas IoT Industrial](#plataforma-iot-industrial)
 
-- [Plataformas de código aberto](#platafomas-de-codigo-aberto)
+- [Plataformas de código aberto](#platafomas-de-código-aberto)
 
-- [Laboratórios e ferramentas](#laboratorios-e-ferramentas)
+- [Laboratórios e ferramentas](#laboratórios-e-ferramentas)
 
 ## Plataformas IoT 
 
@@ -32,4 +31,4 @@ Por favor leia este rápido [guia de contribuição](https://github.com/pineli/a
 ## Laboratórios e ferramentas
 
 
-Contribua!
+Contribua, obrigado!

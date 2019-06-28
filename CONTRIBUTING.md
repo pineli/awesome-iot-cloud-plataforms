@@ -2,7 +2,7 @@ Esta é uma iniciativa minha para criar uma lista especialmente curada para plat
 
 # Diretrizes de contribuição
 
-- ** Para adicionar, remover ou alterar itens da lista: ** Envie um merge request
+- ** Para adicionar, remover ou alterar itens da lista: ** Envie um pull request
 
 - Os itens da lista devem ser classificados * alfabeticamente *.
 - Cada item deve ser limitado a um link.
