@@ -1,6 +1,5 @@
 # Awesome IoT Cloud IoT Platforms
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Lista especialmente curada para Plataformas de IoT em Nuvem.
 
@@ -20,17 +19,17 @@ Por favor leia este rápido [guia de contribuição](https://github.com/pineli/a
 
 - [Laboratórios e ferramentas](#laboratorios-e-ferramentas)
 
-# Plataformas IoT 
+## Plataformas IoT 
 
 *Plataformas de IoT em nuvem de uso genérico.*
 
 * [Amazon AWS](https://aws.amazon.com/pt/iot/) - Amazon IoT AWS.
 
-# Plataformas IoT Industrial
+## Plataformas IoT Industrial
 
-# Plataformas de código aberto
+## Plataformas de código aberto
 
-# Laboratórios e ferramentas
+## Laboratórios e ferramentas
 
 
 Contribua!
