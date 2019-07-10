@@ -8,7 +8,7 @@ Esta é uma iniciativa minha para criar uma lista especialmente curada para plat
 - Cada item deve ser limitado a um link.
 - O link deve ser da página principal da plataforma/projeto.
 - As descrições devem ser claras, concisas e não promocionais.
-- As descrições devem seguir o link, na mesma linha e terminar com um sinal de pontuação.
+- As descrições devem seguir o link, na mesma linha e terminar com um sinal de pontuação e/ou nome da plataforma ser o próprio link.
 - Pelo menos 3 itens são necessários para criar uma nova categoria.
 
 
