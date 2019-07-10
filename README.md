@@ -10,11 +10,11 @@ Por favor leia este rápido * [guia de contribuição](https://github.com/pineli
 
 ### Conteudo
 
-- [Plataformas IoT](#plataforma-iot)
+- [Plataformas IoT](https://github.com/pineli/awesome-iot-cloud-plataforms#plataformas-iot)
 
-- [Plataformas IoT nacionais](#plataforma-iot-nacionais)
+- [Plataformas IoT nacionais](https://github.com/pineli/awesome-iot-cloud-plataforms#plataformas-iot-nacionais)
 
-- [Laboratórios e ferramentas](#laboratórios-e-ferramentas)
+- [Laboratórios e ferramentas](https://github.com/pineli/awesome-iot-cloud-plataforms#laborat%C3%B3rios-e-ferramentas)
 
 ## Plataformas IoT 
 
@@ -96,5 +96,9 @@ Por favor leia este rápido * [guia de contribuição](https://github.com/pineli
 
 ## Laboratórios e ferramentas
 
+* [MachNation](https://www.machnation.com/about/)
+
+
+---
 
 Contribua, obrigado!
