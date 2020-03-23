@@ -3,6 +3,10 @@
 
 Lista especialmente curada para IoT no Agronegócio
 
+## Startups
+
+- [Startups](https://www.inovativabrasil.com.br/startup-agronegocio/)
+
 ## Coleta dedados, IA, Plataformas
 
 - [Agrus Data](http://www.agrusdata.com/index.html#lavoura2)
