@@ -40,6 +40,8 @@ Por favor leia este rápido * [guia de contribuição](https://github.com/pineli
 
 * [ClearBlade’s IoT platform](https://www.clearblade.com/)
 
+* [ConnectMQ](https://connectmq.com/) - Managed MQTT broker (MQTT 3.1.1 and 5.0, TLS, WebSockets).
+
 * [Eclipse Iot](https://iot.eclipse.org/cloud/)
 
 * [GE - Predix Platform](https://www.ge.com/digital/iiot-platform)
@@ -97,6 +99,8 @@ Por favor leia este rápido * [guia de contribuição](https://github.com/pineli
 ## Laboratórios e ferramentas
 
 * [MachNation](https://www.machnation.com/about/)
+
+* [TestMQTT](https://testmqtt.com/) - Free browser-based MQTT client for testing brokers over WebSockets.
 
 
 ---
